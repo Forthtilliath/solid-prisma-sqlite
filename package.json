@@ -12,10 +12,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@prisma/client": "^4.14.1",
+    "@prisma/client": "^4.15.0",
     "@solidjs/meta": "^0.28.5",
     "@solidjs/router": "^0.8.2",
-    "prisma": "^4.14.1",
+    "prisma": "^4.15.0",
     "solid-js": "^1.7.5",
     "solid-start": "^0.2.26",
     "solid-start-netlify": "^0.2.26",
