@@ -1,4 +1,4 @@
-import { PrismaClient } from ".prisma/client";
+import { PrismaClient } from "../../node_modules/.prisma/client";
 import { createServerData$, redirect } from "solid-start/server";
 import { getUser } from "./session";
 
