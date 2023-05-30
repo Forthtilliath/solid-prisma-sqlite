@@ -7,6 +7,8 @@
   },
   "type": "module",
   "devDependencies": {
+    "@types/events": "^3.0.0",
+    "@types/node": "^20.2.5",
     "solid-start-node": "^0.2.26",
     "typescript": "^5.0.4",
     "vite": "^4.3.9"
