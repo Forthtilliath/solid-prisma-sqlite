@@ -1,1 +1,1 @@
-declare module 'solid-start-netlify';
+// declare module 'solid-start-netlify';
